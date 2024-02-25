@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 I work as a Systems Analyst
+- 💼 I work as a Full Stack Developer
 - ❤️ I love challenges and learning new techologies
 - 🌍 Visit my [website](https://archetipico.github.io/)
 
